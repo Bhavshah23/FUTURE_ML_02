@@ -203,13 +203,5 @@ A few things I would like to add in future versions:
 * Ticket dashboard with analytics
 * Deployment on cloud
 
----
 
-## Author
-
-Bhav Shah
-
-B.Tech Computer Engineering
-
-K. J. Somaiya School of Engineering
 
